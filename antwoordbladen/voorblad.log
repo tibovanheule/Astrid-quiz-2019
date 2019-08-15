@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.11.8)  25 JUN 2019 17:08
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.11.8)  13 AUG 2019 18:36
 entering extended mode
 **./voorblad.tex
 (voorblad.tex
@@ -146,44 +146,7 @@ Already applied: [0000/00/00] Old fixltx2e package on input line 53.
 )
 \@dblbotnum=\count129
 \c@dblbotnumber=\count130
-) ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\color.sty"
-Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg"
-File: color.cfg 2016/01/02 v1.6 sample color configuration
-)
-Package color Info: Driver file: pdftex.def on input line 147.
 ) (voorblad.aux
-
-LaTeX Warning: Label `question@1' multiply defined.
-
-
-LaTeX Warning: Label `question@2' multiply defined.
-
-
-LaTeX Warning: Label `question@3' multiply defined.
-
-
-LaTeX Warning: Label `question@4' multiply defined.
-
-
-LaTeX Warning: Label `question@5' multiply defined.
-
-
-LaTeX Warning: Label `question@6' multiply defined.
-
-
-LaTeX Warning: Label `question@7' multiply defined.
-
-
-LaTeX Warning: Label `question@8' multiply defined.
-
-
-LaTeX Warning: Label `question@9' multiply defined.
-
-
-LaTeX Warning: Label `question@10' multiply defined.
-
 
 LaTeX Warning: Label `question@1' multiply defined.
 
@@ -450,319 +413,34 @@ File: astrid.png Graphic file (type png)
 Package pdftex.def Info: astrid.png  used on input line 33.
 (pdftex.def)             Requested size: 136.51279pt x 163.81534pt.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 52.
+(Font)              <7> on input line 55.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 52.
+(Font)              <5> on input line 55.
  [1
-color push 0 g 0 G
-color pop
 
-color push 0 g 0 G
-color pop
-{C:/Users/seven/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
-color push 0 g 0 G
-color pop
-color push 0 g 0 G
-color pop
-color push 0 g 0 G
-color pop
-color push 0 g 0 G
-color pop
-color push 0 g 0 G
-color pop
- <./astrid.png>]
-(ronde1.tex
-File: astrid.png Graphic file (type png)
-<use astrid.png>
-Package pdftex.def Info: astrid.png  used on input line 39.
-(pdftex.def)             Requested size: 17.05432pt x 20.4652pt.
- [1
-color push 0 g 0 G
-color push 0 g 0 G
-color pop
-color pop
-color push 0 g 0 G
-color pop
-color push 0 g 0 G
-color pop
-color push 0 g 0 G
-color pop
-color push 0 g 0 G
-color pop
-color push 0 g 0 G
-color pop
-color push 0 g 0 G
-color pop
-color push 0 g 0 G
-color pop
-color push 0 g 0 G
-color pop
-color push 0 g 0 G
-color pop
-color push 0 g 0 G
-color pop
-color push 0 g 0 G
-color pop
-color push 0 g 0 G
-color pop
-]) (ronde2.tex
-File: astrid.png Graphic file (type png)
-<use astrid.png>
-Package pdftex.def Info: astrid.png  used on input line 35.
-(pdftex.def)             Requested size: 17.05432pt x 20.4652pt.
- [2
-color push 0 g 0 G
-color push 0 g 0 G
-color pop
-color pop
-color push 0 g 0 G
-color pop
-color push 0 g 0 G
-color pop
-color push 0 g 0 G
-color pop
-color push 0 g 0 G
-color pop
-color push 0 g 0 G
-color pop
-color push 0 g 0 G
-color pop
-color push 0 g 0 G
-color pop
-color push 0 g 0 G
-color pop
-color push 0 g 0 G
-color pop
-color push 0 g 0 G
-color pop
-color push 0 g 0 G
-color pop
-color push 0 g 0 G
-color pop
-]) (ronde3.tex
-File: astrid.png Graphic file (type png)
-<use astrid.png>
-Package pdftex.def Info: astrid.png  used on input line 35.
-(pdftex.def)             Requested size: 17.05432pt x 20.4652pt.
- [3
-color push 0 g 0 G
-color push 0 g 0 G
-color pop
-color pop
-color push 0 g 0 G
-color pop
-color push 0 g 0 G
-color pop
-color push 0 g 0 G
-color pop
-color push 0 g 0 G
-color pop
-color push 0 g 0 G
-color pop
-color push 0 g 0 G
-color pop
-color push 0 g 0 G
-color pop
-color push 0 g 0 G
-color pop
-color push 0 g 0 G
-color pop
-color push 0 g 0 G
-color pop
-color push 0 g 0 G
-color pop
-color push 0 g 0 G
-color pop
-]) (ronde4.tex
-File: astrid.png Graphic file (type png)
-<use astrid.png>
-Package pdftex.def Info: astrid.png  used on input line 35.
-(pdftex.def)             Requested size: 17.05432pt x 20.4652pt.
- [4
-color push 0 g 0 G
-color push 0 g 0 G
-color pop
-color pop
-color push 0 g 0 G
-color pop
-color push 0 g 0 G
-color pop
-color push 0 g 0 G
-color pop
-color push 0 g 0 G
-color pop
-color push 0 g 0 G
-color pop
-color push 0 g 0 G
-color pop
-color push 0 g 0 G
-color pop
-color push 0 g 0 G
-color pop
-color push 0 g 0 G
-color pop
-color push 0 g 0 G
-color pop
-color push 0 g 0 G
-color pop
-color push 0 g 0 G
-color pop
-]) (ronde5.tex
-File: astrid.png Graphic file (type png)
-<use astrid.png>
-Package pdftex.def Info: astrid.png  used on input line 35.
-(pdftex.def)             Requested size: 17.05432pt x 20.4652pt.
-[5
-color push 0 g 0 G
-color push 0 g 0 G
-color pop
-color pop
-color push 0 g 0 G
-color pop
-color push 0 g 0 G
-color pop
-color push 0 g 0 G
-color pop
-color push 0 g 0 G
-color pop
-color push 0 g 0 G
-color pop
-color push 0 g 0 G
-color pop
-color push 0 g 0 G
-color pop
-color push 0 g 0 G
-color pop
-color push 0 g 0 G
-color pop
-color push 0 g 0 G
-color pop
-color push 0 g 0 G
-color pop
-color push 0 g 0 G
-color pop
-]) (ronde6.tex
-File: astrid.png Graphic file (type png)
-<use astrid.png>
-Package pdftex.def Info: astrid.png  used on input line 35.
-(pdftex.def)             Requested size: 17.05432pt x 20.4652pt.
- [6
-color push 0 g 0 G
-color push 0 g 0 G
-color pop
-color pop
-color push 0 g 0 G
-color pop
-color push 0 g 0 G
-color pop
-color push 0 g 0 G
-color pop
-color push 0 g 0 G
-color pop
-color push 0 g 0 G
-color pop
-color push 0 g 0 G
-color pop
-color push 0 g 0 G
-color pop
-color push 0 g 0 G
-color pop
-color push 0 g 0 G
-color pop
-color push 0 g 0 G
-color pop
-color push 0 g 0 G
-color pop
-color push 0 g 0 G
-color pop
-]) (ronde7.tex
-File: astrid.png Graphic file (type png)
-<use astrid.png>
-Package pdftex.def Info: astrid.png  used on input line 35.
-(pdftex.def)             Requested size: 17.05432pt x 20.4652pt.
- [7
-color push 0 g 0 G
-color push 0 g 0 G
-color pop
-color pop
-color push 0 g 0 G
-color pop
-color push 0 g 0 G
-color pop
-color push 0 g 0 G
-color pop
-color push 0 g 0 G
-color pop
-color push 0 g 0 G
-color pop
-color push 0 g 0 G
-color pop
-color push 0 g 0 G
-color pop
-color push 0 g 0 G
-color pop
-color push 0 g 0 G
-color pop
-color push 0 g 0 G
-color pop
-color push 0 g 0 G
-color pop
-color push 0 g 0 G
-color pop
-]) (ronde8.tex
-File: astrid.png Graphic file (type png)
-<use astrid.png>
-Package pdftex.def Info: astrid.png  used on input line 37.
-(pdftex.def)             Requested size: 17.05432pt x 20.4652pt.
- [8
-color push 0 g 0 G
-color push 0 g 0 G
-color pop
-color pop
-color push 0 g 0 G
-color pop
-color push 0 g 0 G
-color pop
-color push 0 g 0 G
-color pop
-color push 0 g 0 G
-color pop
-color push 0 g 0 G
-color pop
-color push 0 g 0 G
-color pop
-color push 0 g 0 G
-color pop
-color push 0 g 0 G
-color pop
-color push 0 g 0 G
-color pop
-color push 0 g 0 G
-color pop
-color push 0 g 0 G
-color pop
-color push 0 g 0 G
-color pop
-])
-This exam contains 80 questions with 0 parts, 0 subparts, and 0 subsubparts.
+{C:/Users/seven/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./astrid.pn
+g>] [1]
+(ronde2.tex [2]) (ronde3.tex [3]) (ronde4.tex [4]) (ronde5.tex [5]) (ronde6.tex
+[6]) (ronde7.tex [7]) (ronde8.tex [8])
+This exam contains 70 questions with 0 parts, 0 subparts, and 0 subsubparts.
 (voorblad.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 2646 strings out of 492970
- 38441 string characters out of 3135855
- 116491 words of memory out of 3000000
- 6492 multiletter control sequences out of 15000+200000
+ 2602 strings out of 492970
+ 37690 string characters out of 3135855
+ 116586 words of memory out of 3000000
+ 6455 multiletter control sequences out of 15000+200000
  5448 words of font info for 20 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,15n,25p,277b,285s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 41i,14n,25p,277b,265s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Pr
 ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Fil
 es/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX
  2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on voorblad.pdf (9 pages, 314025 bytes).
+Output written on voorblad.pdf (9 pages, 316026 bytes).
 PDF statistics:
  51 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

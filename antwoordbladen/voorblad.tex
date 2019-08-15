@@ -2,6 +2,7 @@
 \usepackage[utf8]{inputenc}
 \usepackage{graphicx}
 \usepackage{dblfloatfix}
+
 \makeatletter
 \def\@seccntformat#1{%
   \expandafter\ifx\csname c@#1\endcsname\c@section\else
@@ -10,23 +11,23 @@
 \makeatother
 % naam punten
 \pointname{ punten}
-%hoogte header
-\setlength\headheight{40pt} 
+\extraheadheight[1.5cm]{1cm}
+
 %header
-\chead{
+\runningheader{}{
 {
 \begin{center}
 \fbox{\fbox{\parbox{5.5in}{\centering Astrid quiz \linebreak
 Schrijf hier uw antwoorden op. Er ook zijn notitie bladeren meegegeven.}}}
 \end{center}
 \makebox[\textwidth]{Teamnaam:\enspace\hrulefill}
-\makebox[\textwidth]{Teamnummer:\enspace\hrulefill}}}
-\cfoot{\includegraphics[scale=0.01]{astrid}}
+\makebox[\textwidth]{Teamnummer:\enspace\hrulefill}}}{}
+\runningfooter{verbeterd door \_\_\_\_\_\_\_}{knoeien met de puntentabel betekent een verlies in punten! }{Astrid Quiz}
 
 
 
 \begin{document}
-\thispagestyle{empty}
+
 \begin{titlepage}
 \center
 \includegraphics[scale=0.08]{astrid}
@@ -47,14 +48,17 @@ Schrijf hier uw antwoorden op. Er ook zijn notitie bladeren meegegeven.}}}
 	\item{Zoals bij elke quiz zijn er geen hulpmiddelen toegestaan! Gelieve uw gsm op stil te zetten en in het zakje op de tafel te steken.}
 	\item{De punten die bij elke vraag te verdienen zijn, zijn altijd aangegeven op het antwoorden blad.}
 	\item{Er is een bierprijs voorzien. De bar zal het aantal online bijhouden. Je kunt dit dus ook meevolgen op het computerscherm bij de bar.}
+	\item{Zit op elk blad je naam, naamloze bladeren word niet verbeterd.}
+	\item{knoei niet met de puntentabel beneden, anders worden er geen punten gegeven.}
+	\item{verboden \large{bierprijzen} {of andere prijzen te stelen. als je betrapt wordt, zal je de zaal uitgezet worden.}}
 	\end{enumerate}
 	}}}
 	\end{center}
 \end{titlepage}
-
+\newpage
+kladblad, er wordt bij elke tafel ronde ook een ladblad gegeven. Aan de bar is er de mogelijkheid om meer kladbladeren te vragen.
 \newpage
  
-\input{ronde1}
 \input{ronde2}
 \input{ronde3}
 \input{ronde4}
