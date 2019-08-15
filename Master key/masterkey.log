@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.11.8)  2 AUG 2019 13:59
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.11.8)  14 AUG 2019 01:33
 entering extended mode
 **./masterkey.tex
 (masterkey.tex
@@ -235,37 +235,34 @@ Package pdftex.def Info: astrid.png  used on input line 29.
 
 {C:/Users/seven/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./astrid.pn
 g>]
-Underfull \hbox (badness 10000) in paragraph at lines 52--52
-\OT1/cmr/m/n/12 puter.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 52--52
+Underfull \hbox (badness 10000) in paragraph at lines 53--53
 
  []
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 55.
+(Font)              <7> on input line 56.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 55.
-[1] (muziekronde.tex) [2]
+(Font)              <5> on input line 56.
+[1] (muziekronde.tex) [2] (videogames.tex) [3] (studio.tex) [4] (legende.tex
+[5]) [6] (gent.tex [7]) [8] (videogames.tex) [9] (videogames.tex) [10]
+(videogames.tex) [11] (videogames.tex) [12] (videogames.tex) [13]
 This exam contains 0 questions with 0 parts, 0 subparts, and 0 subsubparts.
 (masterkey.aux) ) 
 Here is how much of TeX's memory you used:
- 2535 strings out of 492970
- 36408 string characters out of 3135855
- 114226 words of memory out of 3000000
- 6406 multiletter control sequences out of 15000+200000
+ 2558 strings out of 492970
+ 37210 string characters out of 3135855
+ 116228 words of memory out of 3000000
+ 6407 multiletter control sequences out of 15000+200000
  5448 words of font info for 20 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,14n,26p,440b,294s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 41i,14n,26p,600b,332s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cm
 bx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb>
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Progr
 am Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on masterkey.pdf (3 pages, 308626 bytes).
+Output written on masterkey.pdf (14 pages, 331461 bytes).
 PDF statistics:
- 31 PDF objects out of 1000 (max. 8388607)
+ 67 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
